@@ -27,7 +27,7 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 	
 	
 v 1.1 additions/modifications by Ioannis Kirmitzoglou
-v 2.0 optimization and heuristics by Ioannis Kirmitzoglou
+v 2.1 optimization and heuristics by Ioannis Kirmitzoglou
 ***************************************************************************
 */
 
@@ -252,7 +252,7 @@ int main(int argc, char *argv[] )
 
 	#ifdef WINMAC
 	fclose(fileOut);
-	printf("\nCAST v2.0 Complete\n");
+	printf("\nCAST v2.1 Complete\n");
 	#endif
 	return 1;
 }
@@ -928,10 +928,10 @@ void dump_matrix(void)
 
 void print_banner(void)
 {
-printf ("\nCAST v2.0 - Compositional Bias Filtering Algorithm\n\n");
+printf ("\nCAST v2.1 - Compositional Bias Filtering Algorithm\n\n");
 printf("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=\n");
 /* Added GPL License Statement */
-printf("CAST v2.0, Copyright (C) 2002, European Bioinformatics Institute, EMBL-EBI.\n");
+printf("CAST v2.1, Copyright (C) 2002, European Bioinformatics Institute, EMBL-EBI.\n");
 printf("CAST comes with ABSOLUTELY NO WARRANTY; for details please see the file\n");
 printf("LICENSE.  This is free software, and you are welcome to redistribute\n");
 printf("it under certain conditions; please see the file LICENSE for details.\n");
