@@ -1,5 +1,5 @@
 # CAST
-CAST: an iterative algorithm for the complexity analysis of sequence tracts
+CAST: an iterative algorithm for the complexity analysis of sequence tracts.\n
 See: http://structure.biol.ucy.ac.cy/CAST2
 
 ## Usage
