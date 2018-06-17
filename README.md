@@ -8,7 +8,7 @@ Web server: http://structure.biol.ucy.ac.cy/CAST2
 ```
 
 | Option | Description |
-| --- | --- |
+| :--- | :--- |
 | -help | Print help text |
 | -thr t | Set the threshold score for reported regions. Default is 40. Number (t) should be an integer |
 | -stat | Outputs statistics information to file cast.stat |
