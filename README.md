@@ -16,3 +16,11 @@ See: http://structure.biol.ucy.ac.cy/CAST2
 -matrix  Use different mutation matrix (.mat) file
 -verbose Verbose mode prints filtering information to standard output
 -stderr  Verbose mode prints filtering information to standard error
+
+
+
+
+
+## Support
+For support and feedback contact cast[at]ucy.ac.cy.
+Developed by Vasilis J. Promponas @ [BRL](http://troodos.biol.ucy.ac.cy)
