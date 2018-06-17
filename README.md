@@ -31,4 +31,4 @@ gcc -o castv2 cast_v2.1.c
 
 ## Support
 For support and feedback contact cast[at]ucy.ac.cy.  
-Developed by Vasilis J. Promponas @ [BRL](http://troodos.biol.ucy.ac.cy)
+CAST algorithm developed by Vasilis J. Promponas @ [BRL](http://troodos.biol.ucy.ac.cy). Additions, modifications, optimization and heuristics by Ioannis Kirmitzoglou
