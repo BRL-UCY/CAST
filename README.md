@@ -10,7 +10,7 @@ gcc -o castv2 cast_v2.1.c
 
 ## Usage
 ```
-./castv_v2.1 SequenceFile [options]
+./castv2 SequenceFile [options]
 ```
 
 | Option | Description |
