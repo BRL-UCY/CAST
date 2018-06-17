@@ -2,7 +2,7 @@
 CAST: an iterative algorithm for the complexity analysis of sequence tracts.  
 Web server: http://structure.biol.ucy.ac.cy/CAST2  
 
-## Compiling source
+## Compiling from source
 To compile the source code use:
 ```
 gcc -o castv2 cast_v2.1.c
