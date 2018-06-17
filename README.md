@@ -24,5 +24,5 @@ Web server: http://structure.biol.ucy.ac.cy/CAST2
 
 
 ## Support
-For support and feedback contact cast[at]ucy.ac.cy.
+For support and feedback contact cast[at]ucy.ac.cy.  
 Developed by Vasilis J. Promponas @ [BRL](http://troodos.biol.ucy.ac.cy)
